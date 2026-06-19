@@ -50,10 +50,15 @@ Python: Core programming language.
 Pandas: Data manipulation and statistical calculations.
 
 NumPy: Data simulation and statistical modeling.
-<img width="1480" height="840" alt="image" src="https://github.com/user-attachments/assets/fbe5ecd2-8a36-4065-ba0c-fd3aaf1399b3" />
-
-
+<img width="1480" height="840" alt="image" src="https://github.com/user-attachments/assets/fbe5ecd2-8a36-4065-ba0c-fd3aaf1399b3" /> 
 
 NumPy: Data simulation and statistical modeling.
 
 Seaborn/Matplotlib: Visualization engine.
+
+📊 Interactive Performance Dashboard
+I have developed an interactive visualization to analyze Premier League offensive efficiency.
+
+How to view: You can interact with the live dashboard by clicking here to view the dashboard (if your GitHub repo is public, this link will work directly).
+
+Key Insight: This dashboard visualizes the delta between xG and actual goals, helping identify teams that are over- or under-performing their expected metrics.
